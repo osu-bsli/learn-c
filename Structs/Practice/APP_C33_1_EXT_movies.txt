@@ -1,0 +1,9 @@
+8
+Back_to_the_Future	1985	Zemeckis
+Forrest_Gump		1994	Zemeckis
+Jaws				1975	Spielberg
+Jurassic_Park		1993	Spielberg
+The_Avengers		2012	Whedon
+The_Dark_Knight		2008	Nolan
+The_Lion_King		1994	Allers
+Titanic				1997	Cameron
