@@ -24,7 +24,7 @@ int main (void)
 
 	/* TODO: call the add function on the arrays */
 
-	for (int i = 0; i < sizeof (array1); i++) {
+	for (int i = 0; i < sizeof (array1)/4; i++) {
 		assert (array3[i] == array1[i] + array2[i]);
 	}
 
